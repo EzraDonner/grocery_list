@@ -1,0 +1,51 @@
+h1 {
+  color: blue;
+  padding: 10px;
+}
+
+h2 {
+  background-color: purple;
+  color: white;
+  padding: 10px;
+}
+
+h3 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1%;
+  margin-block-end: 1%;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+  padding: 10px;
+}
+
+ol {
+  display: block;
+  margin-block-start: 1%;
+  margin-block-end: 1%;
+  margin-inline-start: 10px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  padding: 10px;
+}
+
+ul {
+  display: block;
+  margin-block-start: 1%;
+  margin-block-end: 1%;
+  margin-inline-start: 10px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  padding: 10px;
+}
+
+section {
+  background-color: chocolate;
+}
+
+img {
+  width: 200px;
+  padding: 10px;
+}
